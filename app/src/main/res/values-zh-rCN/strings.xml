@@ -1,0 +1,8 @@
+<resources>
+    <string name="game_over_hint">游戏结束</string>
+    <string name="button_rotate">旋转</string>
+    <string name="button_sounds">声音</string>
+    <string name="button_pause">暂停/恢复</string>
+    <string name="button_reset">开始/重置</string>
+
+</resources>
